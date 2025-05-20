@@ -1,122 +1,122 @@
 enbl-secure.o enbl-secure.o: enbl-secure.c ../include/libc-symbols.h \
-  ../config.h h:/mingw/3.3.1/include/unistd.h h:/mingw/3.3.1/include/io.h \
-  h:/mingw/3.3.1/include/_mingw.h h:/mingw/3.3.1/include/sys/types.h \
-  h:/mingw/3.3.1/include/stddef.h \
-  h:/mingw/3.3.1/lib/gcc-lib/mingw32/3.3.1/include/stddef.h \
-  h:/mingw/3.3.1/mingw32/include/winx/stddefx.h \
-  h:/mingw/3.3.1/mingw32/include/winx/sys/typesx.h \
-  h:/mingw/3.3.1/mingw32/include/features.h \
-  h:/mingw/3.3.1/mingw32/include/sys/cdefs.h ../include/gnu/stubs.h \
-  h:/mingw/3.3.1/mingw32/include/bits/types.h \
-  h:/mingw/3.3.1/mingw32/include/bits/wordsize.h \
-  h:/mingw/3.3.1/mingw32/include/bits/typesizes.h \
-  h:/mingw/3.3.1/mingw32/include/winx/iox.h \
-  h:/mingw/3.3.1/include/stdlib.h \
-  h:/mingw/3.3.1/mingw32/include/winx/stdlibx.h \
-  h:/mingw/3.3.1/mingw32/include/gw32.h \
-  h:/mingw/3.3.1/mingw32/include/gw32win.h \
-  h:/mingw/3.3.1/include/stdint.h \
-  h:/mingw/3.3.1/mingw32/include/winx/stdintx.h \
-  h:/mingw/3.3.1/include/getopt.h h:/mingw/3.3.1/include/fcntl.h \
-  h:/mingw/3.3.1/mingw32/include/winx/fcntlx.h \
-  h:/mingw/3.3.1/mingw32/include/bits/fcntl.h \
-  h:/mingw/3.3.1/include/process.h \
-  h:/mingw/3.3.1/mingw32/include/winx/unistdx.h \
-  h:/mingw/3.3.1/mingw32/include/bits/confname.h \
-  ../include/libc-internal.h h:/mingw/3.3.1/mingw32/include/hp-timing.h \
-  h:/mingw/3.3.1/include/string.h \
-  h:/mingw/3.3.1/mingw32/include/winx/stringx.h \
-  h:/mingw/3.3.1/include/sys/param.h h:/mingw/3.3.1/include/limits.h \
-  h:/mingw/3.3.1/mingw32/include/winx/limitsx.h \
-  h:/mingw/3.3.1/mingw32/include/bits/posix1_lim.h \
-  h:/mingw/3.3.1/mingw32/include/bits/local_lim.h \
-  h:/mingw/3.3.1/mingw32/include/bits/xopen_lim.h \
-  h:/mingw/3.3.1/mingw32/include/bits/stdio_lim.h \
-  h:/mingw/3.3.1/mingw32/include/winx/sys/paramx.h \
+  ../config.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/unistd.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/io.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/_mingw.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/sys/types.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stddef.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/lib/gcc-lib/mingw32/3.3.1/include/stddef.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stddefx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/sys/typesx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/features.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/sys/cdefs.h ../include/gnu/stubs.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/types.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/wordsize.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/typesizes.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/iox.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stdlib.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stdlibx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/gw32.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/gw32win.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stdint.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stdintx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/getopt.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/fcntl.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/fcntlx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/fcntl.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/process.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/unistdx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/confname.h \
+  ../include/libc-internal.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/hp-timing.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/string.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stringx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/sys/param.h ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/limits.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/limitsx.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/posix1_lim.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/local_lim.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/xopen_lim.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/stdio_lim.h \
+  ../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/sys/paramx.h \
   ../stdio-common/_itoa.h
 
 ../include/libc-symbols.h:
 
 ../config.h:
 
-h:/mingw/3.3.1/include/unistd.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/unistd.h:
 
-h:/mingw/3.3.1/include/io.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/io.h:
 
-h:/mingw/3.3.1/include/_mingw.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/_mingw.h:
 
-h:/mingw/3.3.1/include/sys/types.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/sys/types.h:
 
-h:/mingw/3.3.1/include/stddef.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stddef.h:
 
-h:/mingw/3.3.1/lib/gcc-lib/mingw32/3.3.1/include/stddef.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/lib/gcc-lib/mingw32/3.3.1/include/stddef.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/stddefx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stddefx.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/sys/typesx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/sys/typesx.h:
 
-h:/mingw/3.3.1/mingw32/include/features.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/features.h:
 
-h:/mingw/3.3.1/mingw32/include/sys/cdefs.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/sys/cdefs.h:
 
 ../include/gnu/stubs.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/types.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/types.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/wordsize.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/wordsize.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/typesizes.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/typesizes.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/iox.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/iox.h:
 
-h:/mingw/3.3.1/include/stdlib.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stdlib.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/stdlibx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stdlibx.h:
 
-h:/mingw/3.3.1/mingw32/include/gw32.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/gw32.h:
 
-h:/mingw/3.3.1/mingw32/include/gw32win.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/gw32win.h:
 
-h:/mingw/3.3.1/include/stdint.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/stdint.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/stdintx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stdintx.h:
 
-h:/mingw/3.3.1/include/getopt.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/getopt.h:
 
-h:/mingw/3.3.1/include/fcntl.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/fcntl.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/fcntlx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/fcntlx.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/fcntl.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/fcntl.h:
 
-h:/mingw/3.3.1/include/process.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/process.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/unistdx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/unistdx.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/confname.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/confname.h:
 
 ../include/libc-internal.h:
 
-h:/mingw/3.3.1/mingw32/include/hp-timing.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/hp-timing.h:
 
-h:/mingw/3.3.1/include/string.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/string.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/stringx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/stringx.h:
 
-h:/mingw/3.3.1/include/sys/param.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/sys/param.h:
 
-h:/mingw/3.3.1/include/limits.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/include/limits.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/limitsx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/limitsx.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/posix1_lim.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/posix1_lim.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/local_lim.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/local_lim.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/xopen_lim.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/xopen_lim.h:
 
-h:/mingw/3.3.1/mingw32/include/bits/stdio_lim.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/bits/stdio_lim.h:
 
-h:/mingw/3.3.1/mingw32/include/winx/sys/paramx.h:
+../../../../../sandbox/cross_compilers/mingw-w64-i686/i686-w64-mingw32/mingw32/include/winx/sys/paramx.h:
 
 ../stdio-common/_itoa.h:
