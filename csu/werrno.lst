@@ -1269,7 +1269,7 @@
       3221: Fout aangaande de fouttolerantie van de schijf  %1          22: Invalid argument
       3222: Replicatie kan geen toegang krijgen tot %2 op %3 vanwege systeemfout %1.          22: Invalid argument
       3223: Fout in de primaire domeincontroller voor domein %1.          22: Invalid argument
-      3224: Het wachtwoord voor de computeraccount voor account %1 is niet gewijzigd vanwege de volgende fout: 
+      3224: Het wachtwoord voor de computeraccount voor account %1 is niet gewijzigd vanwege de volgende fout: 
 %2          22: Invalid argument
       3225: Fout bij het bijwerken van de aanmeldings- of afmeldingsgegevens van %1.          22: Invalid argument
       3226: Fout bij synchronisatie met primaire domeincontroller %1.          22: Invalid argument
@@ -2124,10 +2124,10 @@
       5504: Kan logboekbestand %1 niet openen.          22: Invalid argument
       5505: Logboekbestand %1 is beschadigd en zal worden gewist.          22: Invalid argument
       5506: Kan het toepassingslogboek niet openen. %1 wordt als standaardlogboekbestand gebruikt.          22: Invalid argument
-      5507: Logboek %1 is vol. Als dit de eerste keer is dat u dit bericht krijgt, dient u de volgende stappen uit te voeren:
- Ga naar Start, Instellingen, Configuratiescherm, Systeembeheer en Logboeken
- Selecteer het logboek %1, kies in het menu Actie de optie Alle gebeurtenissen wissen en kies Nee als u wordt gevraagd om het logboek op  te slaan.
-
+      5507: Logboek %1 is vol. Als dit de eerste keer is dat u dit bericht krijgt, dient u de volgende stappen uit te voeren:
+ Ga naar Start, Instellingen, Configuratiescherm, Systeembeheer en Logboeken
+ Selecteer het logboek %1, kies in het menu Actie de optie Alle gebeurtenissen wissen en kies Nee als u wordt gevraagd om het logboek op  te slaan.
+
  Als dit dialoogvenster vaker wordt weergegeven, dient u contact op te nemen met de Helpdesk of systeembeheerder.          22: Invalid argument
       5508: Server %1 heeft de volledige synchronisatie van de beveiligingsdatabase gestart.          22: Invalid argument
       5509: Kan Windows 2000 niet volgens de configuratie starten. In plaats daarvan is een eerdere werkconfiguratie gebruikt.          22: Invalid argument
@@ -2142,41 +2142,41 @@
       5600: Kan het gebruikers- of scriptpad niet delen.          22: Invalid argument
       5601: Kan het wachtwoord voor deze computer niet in de lokale beveiligingsdatabase vinden.          22: Invalid argument
       5602: Interne fout bij een poging toegang te krijgen tot de database voor lokale of netwerkbeveiliging van de computer.          22: Invalid argument
-      5700: De NetLogon-service heeft de replicatiegegevensstructuren niet kunnen initialiseren. De service is gestopt. Fout: 
+      5700: De NetLogon-service heeft de replicatiegegevensstructuren niet kunnen initialiseren. De service is gestopt. Fout: 
 %1          22: Invalid argument
-      5701: De NetLogon-service kan de lijst met vertrouwde domeinen niet bijwerken. Fout: 
+      5701: De NetLogon-service kan de lijst met vertrouwde domeinen niet bijwerken. Fout: 
 %1          22: Invalid argument
-      5702: De NetLogon-service kan de RPC-interface niet toevoegen. De service is gestopt. Fout: 
+      5702: De NetLogon-service kan de RPC-interface niet toevoegen. De service is gestopt. Fout: 
 %1          22: Invalid argument
-      5703: De NetLogon-service kan een mailslot-bericht van %1 niet lezen vanwege de volgende fout: 
+      5703: De NetLogon-service kan een mailslot-bericht van %1 niet lezen vanwege de volgende fout: 
 %2          22: Invalid argument
-      5704: De NetLogon-service kan de service niet bij de servicecontroller registreren. De service is gestopt. Fout: 
+      5704: De NetLogon-service kan de service niet bij de servicecontroller registreren. De service is gestopt. Fout: 
 %1          22: Invalid argument
       5705: De cache voor het wijzigingenlogboek die door de NetLogon-service wordt bijgehouden voor wijzigingen in de database, is vol. De service Netlogon stelt het wijzigingenlogboek opnieuw in.          22: Invalid argument
-      5706: De NetLogon-service kan server-share %1 niet maken. Fout: 
+      5706: De NetLogon-service kan server-share %1 niet maken. Fout: 
 %2          22: Invalid argument
       5707: De downlevel aanmeldingsaanvraag voor gebruiker %1 vanaf %2 is mislukt.          22: Invalid argument
       5708: De downlevel afmeldingsaanvraag voor gebruiker %1 vanaf %2 is mislukt.          22: Invalid argument
       5709: De aanmeldingsaanvraag voor Windows NT of Windows 2000 %1 voor gebruiker %2\%3 vanaf %4 (via %5) is mislukt.          22: Invalid argument
       5710: De afmeldingsaanvraag voor Windows NT of Windows 2000 %1 voor gebruiker %2\%3 vanaf %4 is mislukt.          22: Invalid argument
       5711: De opdracht voor gedeeltelijke synchronisatie vanaf server %1 is voltooid. Er is/zijn %2 wijziging(en) geretourneerd naar de aanvrager geretourneerd.          22: Invalid argument
-      5712: Kan de opdracht voor gedeeltelijke synchronisatie vanaf server %1 niet uitvoeren. Fout: 
+      5712: Kan de opdracht voor gedeeltelijke synchronisatie vanaf server %1 niet uitvoeren. Fout: 
 %2          22: Invalid argument
       5713: De opdracht voor volledige synchronisatie vanaf de server %1 is voltooid. Er is/zijn %2 object(en) naar de aanvrager geretourneerd.          22: Invalid argument
-      5714: Kan de opdracht voor volledige synchronisatie vanaf server %1 niet uitvoeren. Fout: 
+      5714: Kan de opdracht voor volledige synchronisatie vanaf server %1 niet uitvoeren. Fout: 
 %2          22: Invalid argument
       5715: De gedeeltelijke synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is voltooid. Er is/zijn %3 wijziging(en) toegepast op de database.          22: Invalid argument
-      5716: De gedeeltelijke synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is mislukt. Fout: 
+      5716: De gedeeltelijke synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is mislukt. Fout: 
 %3          22: Invalid argument
       5717: De volledige synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is voltooid.          22: Invalid argument
-      5718: De volledige synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is mislukt. Fout: 
+      5718: De volledige synchronisatiereplicatie van de %1-database vanaf primaire domeincontroller %2 is mislukt. Fout: 
 %3          22: Invalid argument
-      5719: Er is geen domeincontroller beschikbaar voor domein %1 met als reden: 
-%2. 
+      5719: Er is geen domeincontroller beschikbaar voor domein %1 met als reden: 
+%2. 
 Zorg ervoor dat de computer op het netwerk is aangesloten en probeer het opnieuw. Neem contact met de domeinbeheerder op als het probleem blijft bestaan.          22: Invalid argument
       5720: De sessie-instelling bij de Windows NT- of Windows 2000-domeincontroller %1 voor domein %2 is mislukt omdat computer %3 geen account heeft voor de lokale beveiligingsdatabase.          22: Invalid argument
       5721: Het tot stand brengen van de sessie bij de Windows NT- of Windows 2000-domeincontroller (%1) voor het domein %2 is mislukt omdat de domeincontroller geen account voor de computer (%3) heeft.          22: Invalid argument
-      5722: Kan het tot stand brengen van de sessie vanaf computer %1 niet verifiëren. De namen van de accounts waarnaar in de beveiligingsdatabase wordt verwezen, zijn: %2. Fout: 
+      5722: Kan het tot stand brengen van de sessie vanaf computer %1 niet verifiëren. De namen van de accounts waarnaar in de beveiligingsdatabase wordt verwezen, zijn: %2. Fout: 
 %3          22: Invalid argument
       5723: Het tot stand brengen van de sessie vanaf de computer %1 is mislukt omdat er geen vertrouwensaccount in de beveiligingsdatabase van deze computer staat.  De naam van de account waarnaar op de beveiligingsdatabase wordt ver- wezen, is %2.          22: Invalid argument
       5724: Kan de besturingshandler niet bij de servicecontroller %1 registreren.          22: Invalid argument
@@ -2184,29 +2184,29 @@ Zorg ervoor dat de computer op het netwerk is aangesloten en probeer het opnieuw
       5726: Kan de computernaam %1 niet vinden.          22: Invalid argument
       5727: Kan het stuurprogramma %1 niet laden.          22: Invalid argument
       5728: Kan geen transport laden.          22: Invalid argument
-      5729: Replicatie van het %1 domeinobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5729: Replicatie van het %1 domeinobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5730: Replicatie van de %1 globale groep %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5730: Replicatie van de %1 globale groep %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5731: Replicatie van de %1 lokale groep %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5731: Replicatie van de %1 lokale groep %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5732: Replicatie van de %1 gebruiker %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5732: Replicatie van de %1 gebruiker %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5733: Replicatie van het %1 beleidsobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5733: Replicatie van het %1 beleidsobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5734: Replicatie van het %1 vertrouwd-domeinobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5734: Replicatie van het %1 vertrouwd-domeinobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5735: Replicatie van het %1 accountobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5735: Replicatie van het %1 accountobject %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5736: Replicatie van het %1 geheim %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
+      5736: Replicatie van het %1 geheim %2 van de primaire domeincontroller %3 is mislukt met de volgende fout: 
 %4          22: Invalid argument
-      5737: Het systeem heeft de volgende onverwachte foutcode geretourneerd: 
+      5737: Het systeem heeft de volgende onverwachte foutcode geretourneerd: 
 %1          22: Invalid argument
       5738: Netlogon heeft twee computeraccounts gevonden voor server %1. De server kan een Windows 2000 Server zijn die lid is van het domein of een LanMan-server met een account in de globale groep SERVERS. De server kan niet beide tegelijk zijn.          22: Invalid argument
       5739: Dit domein heeft meer globale groepen dan naar een LanMan-reservedomeincontroller kunnen worden gerepliceerd. Verwijder enkele van uw globale groepen of verwijder de LanMan-reservedomeincontrollers uit het domein.          22: Invalid argument
-      5740: De Browser-service heeft de volgende fout naar NetLogon geretourneerd: 
+      5740: De Browser-service heeft de volgende fout naar NetLogon geretourneerd: 
 %1          22: Invalid argument
-      5741: Netlogon kan de naam %1<1B> om de volgende reden niet registreren: 
+      5741: Netlogon kan de naam %1<1B> om de volgende reden niet registreren: 
 %2          22: Invalid argument
       5742: De service kan de berichten die nodig zijn om clients op te starten die extern worden gestart, niet vinden.          22: Invalid argument
       5743: De service heeft een ernstige fout aangetroffen en kan niet langer worden gebruikt om 3Com 3Start-clients extern op te starten.          22: Invalid argument
@@ -2240,35 +2240,35 @@ Zorg ervoor dat de computer op het netwerk is aangesloten en probeer het opnieuw
       5771: De database voor extern opstarten heeft de indeling van NT 3.5 / NT 3.51. NT probeert de database te converteren naar NT 4.0. Het conversieprogramma JETCONV schrijft een melding naar het toepassingenlogboek wanneer de conversie is voltooid.          22: Invalid argument
       5772: De globale groep SERVERS bestaat in domein %1 en heeft leden. Deze groep definieert Lan Manager-reservedomeincontrollers in het domein. Lan Manager-reservedomeincontrollers zijn niet toegestaan in Windows 2000-domeinen.          22: Invalid argument
       5773: De DNS-server (met het IP-adres %1) voor deze domeincontroller ondersteunt Dynamic DNS niet. Voeg de DNS-records uit het bestand %SystemRoot%\System32\Config\netlogon.dns toe aan de DNS-server die het domein ondersteunt, waarnaar in dat bestand wordt verwezen. De DNS-server heeft een foutcode geretourneerd. Deze bevindt zich in het gegevensveld.            22: Invalid argument
-      5774: Registratie van de DNS-record %1 is mislukt op de DNS-server (IP-adres: %3) met de volgende fout: 
-%2. 
+      5774: Registratie van de DNS-record %1 is mislukt op de DNS-server (IP-adres: %3) met de volgende fout: 
+%2. 
 De DNS-server heeft een foutcode geretourneerd. Deze bevindt zich in het gegevensveld.          22: Invalid argument
-      5775: Het verwijderen van de registratie van DNS-record %1 is mislukt op de DNS-server (IP-adres: %3) met de volgende fout: 
-%2 
-De DNS-server heeft een foutcode geretourneerd. Deze staat in het gegevensveld vermeld. 
+      5775: Het verwijderen van de registratie van DNS-record %1 is mislukt op de DNS-server (IP-adres: %3) met de volgende fout: 
+%2 
+De DNS-server heeft een foutcode geretourneerd. Deze staat in het gegevensveld vermeld. 
 Hoewel dit geen kritieke fout is die de werking van de domeincontroller beïnvloedt, wordt sterk aangeraden om de record uit de DNS te verwijderen om onnodige verbindingen naar deze computer te verhinderen.         22: Invalid argument
-      5776: Kan het bestand %1 niet maken/openen vanwege de volgende fout: 
+      5776: Kan het bestand %1 niet maken/openen vanwege de volgende fout: 
 %2          22: Invalid argument
-      5777: Netlogon heeft tijdens een poging toegang te krijgen tot de gegevens van de subnet-naar-site-toewijzing uit Active Directory de volgende fout ontvangen: 
+      5777: Netlogon heeft tijdens een poging toegang te krijgen tot de gegevens van de subnet-naar-site-toewijzing uit Active Directory de volgende fout ontvangen: 
 %1          22: Invalid argument
       5778: %1 heeft geprobeerd om de bijbehorende site te bepalen door het IP-adres (%2) in de container Configuratie\Sites\Subnetten in Active Directory op te zoeken. Er komt geen subnet met het IP-adres overeen. Mogelijk dient u een subnetobject voor dit IP-adres toe te voegen.         22: Invalid argument
       5779: De sitenaam voor deze computer is %1. Dit is een ongeldige sitenaam omdat een sitenaam een geldig DNS-label moet zijn. Geef de site een geldige naam.          22: Invalid argument
       5780: Subnetobject %1 wordt weergegeven in de container Configuratie\Sites\Subnetten in Active Directory. De naam heeft een ongeldige syntaxis. De geldige syntaxis is xx.xx.xx.xx/yy waarbij xx.xx.xx.xx een geldig IP-subnetnummer is en yy het aantal bits in het subnetmask.  Corrigeer de naam van het subnetobject.          22: Invalid argument
       5781: Dynamische registratie of registratieverwijdering van een of meer DNS-records is mislukt omdat er geen DNS-servers beschikbaar zijn.          22: Invalid argument
-      5782: Dynamische registratie of registratieverwijdering van een of meer DNS-records is mislukt met deze fout: 
+      5782: Dynamische registratie of registratieverwijdering van een of meer DNS-records is mislukt met deze fout: 
 %1          22: Invalid argument
       5783: De sessie-instelling voor Windows NT- of Windows 2000-domeincontroller %1 voor domein %2 reageert niet. De huidige RCP-aanroep van Netlogon op \\%3 naar %1 is geannuleerd.          22: Invalid argument
       5784: In site %2 zijn geen domeincontrollers voor domein %3 opgenomen. Domeincontrollers in site %1 zijn automatisch geselecteerd om site %2 voor domein %3 te dekken. Deze selectie is gebaseerd op geconfigureerde kosten voor replicatie van Active Directory-servers.          22: Invalid argument
       5785: Deze domeincontroller beslaat niet langer automatisch site %1 voor domein %2.          22: Invalid argument
       5786: Site %2 heeft geen GC-servers voor forest %3. GC-servers in site %1 zijn automatisch geselecteerd om site %2 voor forest %3 te beslaan. Deze selectie is gebaseerd op geconfigureerde kosten voor replicatie van Active Directory-servers.          22: Invalid argument
       5787: Deze GC-server beslaat niet langer automatisch site %1 voor forest %2.          22: Invalid argument
-      5788: Poging tot bijwerken van HOST SPN's (Service Principal Names) van het computerobject in Active Directory is mislukt. De bijgewerkte waarden zijn %1 en %2. De volgende fout is opgetreden: 
+      5788: Poging tot bijwerken van HOST SPN's (Service Principal Names) van het computerobject in Active Directory is mislukt. De bijgewerkte waarden zijn %1 en %2. De volgende fout is opgetreden: 
 %3.          22: Invalid argument
-      5789: Poging tot bijwerken van DNS-hostnaam van het computerobject in  Active Directory is mislukt. De bijgewerkte waarde is %1. De volgende fout is opgetreden: 
+      5789: Poging tot bijwerken van DNS-hostnaam van het computerobject in  Active Directory is mislukt. De bijgewerkte waarde is %1. De volgende fout is opgetreden: 
 %2.          22: Invalid argument
-      5790: Voor domein %1 is geen geschikte domeincontroller beschikbaar. Er is een NT4- of oudere domeincontroller beschikbaar, maar deze kan niet voor verificatiedoeleinden in het Windows 2000- of nieuwere domein, waarvan deze computer lid is, worden gebruikt. De volgende fout heeft zich voorgedaan:
+      5790: Voor domein %1 is geen geschikte domeincontroller beschikbaar. Er is een NT4- of oudere domeincontroller beschikbaar, maar deze kan niet voor verificatiedoeleinden in het Windows 2000- of nieuwere domein, waarvan deze computer lid is, worden gebruikt. De volgende fout heeft zich voorgedaan:
 %2          22: Invalid argument
-      5791: Het domein %1 van deze computer is van Windows 2000 of nieuwer naar Windows NT4 of ouder gedegradeerd. De computer niet voor verificatie- doeleinden worden gebruikt en dient opnieuw aan het domein te worden toegevoegd. De volgende fout heeft zich voorgedaan:
+      5791: Het domein %1 van deze computer is van Windows 2000 of nieuwer naar Windows NT4 of ouder gedegradeerd. De computer niet voor verificatie- doeleinden worden gebruikt en dient opnieuw aan het domein te worden toegevoegd. De volgende fout heeft zich voorgedaan:
 %2          22: Invalid argument
       5792: De site %1 heeft geen LDAP-servers voor de netwerkcomputer %3 uit een ander domein. De LDAP-servers van site %1 zijn automatisch geselecteerd om site %2 te dekken voor de netwerkcomputer %3 uit een ander domein, baserend op de geconfigureerde replicatiekosten van de Directoryserver          22: Invalid argument
       5793: Deze LDAP-server dekt site %1 niet meer automatisch voor de netwerkcomputer %2 uit een ander domein.          22: Invalid argument
@@ -2279,13 +2279,13 @@ Hoewel dit geen kritieke fout is die de werking van de domeincontroller beïnvloe
       5798: Site %2 is niet langer als 'gedekt door deze LDAP-server voor netwerkcomputer %3 uit een ander domein' handmatig in het register geconfigureerd. Hierdoor heeft site %2 geen LDAP-server voor netwerkcomputer %3 uit een ander domein. LDAP-servers van site %1 zijn automatisch geselecteerd om site %2 voor netwerkcomputer %3 uit een ander domein te dekken, baserend op de geconfigureerde replicatiekosten van de Directoryserver.         22: Invalid argument
       5799: Deze LDAP-server dekt site %1 niet langer automatisch voor netwerkcomputer %2 uit een ander domein. Site %1 wordt echter nog steeds (handmatig) door deze LDAP-server gedekt voor netwerkcomputer %2 uit een ander domein, aangezien deze site handmatig in het register is geconfigureerd.          22: Invalid argument
       5800: Een poging om de DNS-host-naam en de kenmerken van de principal-naam van de Host-service (SPN) van het computerobject in de Active Directory bij te werken is mislukt, omdat de domeincontroller %1 meer dan één account met de naam %2 kent, die naar deze computer verwijst. Als SPN's niet worden geregistreerd, ontstaan er waarschijnlijk verificatie- problemen bij deze computer. Neem contact op met de domeinbeheerder, zodat deze eventueel handmatig het probleem met dubbele accountnamen kan oplossen.         22: Invalid argument
-      5801: Een poging om de DNS-hostnaam en de kenmerken van de principal-naam van de Host-service (SPN) van het computerobject in de Active Directory bij te werken is mislukt omdat de accountnaam van deze computer, %2, niet aan het computerobject in de domeincontroller %1 kan worden gekoppeld. Als SPN's niet worden geregistreerd, ontstaan er waarschijnlijk verificatieproblemen bij deze computer.\r\nNeem contact op met de domeinbeheerder. De volgende technische gegevens zijn mogelijk handig bij het oplossen van dit probleem:
+      5801: Een poging om de DNS-hostnaam en de kenmerken van de principal-naam van de Host-service (SPN) van het computerobject in de Active Directory bij te werken is mislukt omdat de accountnaam van deze computer, %2, niet aan het computerobject in de domeincontroller %1 kan worden gekoppeld. Als SPN's niet worden geregistreerd, ontstaan er waarschijnlijk verificatieproblemen bij deze computer.\r\nNeem contact op met de domeinbeheerder. De volgende technische gegevens zijn mogelijk handig bij het oplossen van dit probleem:
  DsCrackNames status = 0x%3, crack error = 0x%4.         22: Invalid argument
       5802: Geen van de IP-adressen (%2) van deze domeincontroller komt overeen met de geconfigureerde site %1. Hoewel dit eventueel een tijdelijk situatie als het gevolg van wijzigingen in IP-adressen is, is het aan te raden dat het IP-adres van de domeincontroller (toegankelijk voor computers in het betreffende domein) met de site die de domeincontroller verzorgt, overeenkomt. Als bovenstaande lijst met IP-adressen stabiel is, is het aan te raden om deze server naar een site te verplaatsen waardoor het IP-adres met de geselecteerde site overeenkomt. Maak eventueel een nieuwe site, mocht deze nog niet bestaan. Eventueel is het noodzakelijk om een nieuw subnetobject te maken (waarbij bovenstaand IP-adres deel van het bereik uitmaakt) dat met het geselecteerde siteobject is gekoppeld.          22: Invalid argument
-      5803: De volgende fout is opgetreden bij het lezen van de parameter %2 in het registergedeelte voor netwerkaanmelding van %1: 
+      5803: De volgende fout is opgetreden bij het lezen van de parameter %2 in het registergedeelte voor netwerkaanmelding van %1: 
 %3          22: Invalid argument
       5804: De registersleutel voor de netwerkaanmelding van %1 bevat een ongeldige waarde 0x%2 voor de parameter %3. De minimaal en maximaal toegestane waarden voor deze parameter zijn respectievelijk 0x%4 en 0x%5. De waarde van 0x%6 is aan deze parameter toegewezen.          22: Invalid argument
-      5805: De sessie-installatie van de computer %1 kan geen verificatie uitvoeren. De volgende fout is opgetreden: 
+      5805: De sessie-installatie van de computer %1 kan geen verificatie uitvoeren. De volgende fout is opgetreden: 
 %2          22: Invalid argument
       5807: Tijdens de afgelopen %1 uur zijn er %2 verbindingen naar deze domeincontroller geweest, vanaf clientcomputers waarvan het IP-adres met geen van de bestaande sites in de onderneming overeenkomt. De betreffende clients hebben derhalve ongedefinieerde sites en maken eventueel verbinding met domeincontrollers die zich mogelijk ver van de client bevinden. Een clientsite wordt bepaald door de toewijzing van het subnet aan een van de bestaande sites. Overweeg om subnetobjecten te maken die bovenstaande IP-adressen dekken door koppelingen naar een van de bestaande sites, als u bovenstaande clients naar een van de sites wilt verplaatsen. De namen en IP-adressen van de betreffende clients zijn op deze computer in het volgende logbestand geregistreerd: '%SystemRoot%\debug\netlogon.log' en mogelijk in het logbestand '%SystemRoot%\debug\netlogon.bak', dat wordt gemaakt wanneer het eigenlijke logbestand vol is. De logbestanden bevatten mogelijk extra niet-verwante foutopsporingsinformatie. Zoek naar regels met de tekst 'NO_CLIENT_SITE:' als u de benodigde informatie wilt filteren. Het eerste woord na deze tekenreeks is de clientnaam en het tweede woord is het IP-adres van de client. De maximale grootte van de logbestanden wordt bepaald door de DWORD-waarde 'HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Netlogon\Parameters\LogFileMaxSize' in het register. De standaardwaarde bedraagt %3 bytes. De huidige maximale waarde is %4 bytes. Maak bovenstaande registerwaarde aan en stel de gewenste maximale grootte in bytes in, als u deze wilt wijzigen.          22: Invalid argument
       5890: Er is een poging gedaan om een bewerking uit te voeren die niet compatibel is met de huidige lidmaatschapsstatus van het knooppunt.          22: Invalid argument
