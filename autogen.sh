@@ -6,7 +6,7 @@ set -e
 rm -rf autom4te.cache
 
 # Set up the standard gettext infrastructure.
-autopoint
+autopoint --force
 
 # Set up libtool stuff for use with Automake.
 if type glibtoolize > /dev/null 2>&1; then
